@@ -5,11 +5,11 @@ This project involves performing Exploratory Data Analysis (EDA) on the Spotify 
 
 Dataset Columns:
 
-Artist: Name of the artist.
-Track Name: Name of the track.
-Popularity: Popularity score of the track (0-100).
-Duration (ms): Duration of the track in milliseconds.
-Track ID: Unique identifier for the track.
+* Artist: Name of the artist.
+* Track Name: Name of the track.
+* Popularity: Popularity score of the track (0-100).
+* Duration (ms): Duration of the track in milliseconds.
+* Track ID: Unique identifier for the track.
 Project Objectives
 Data Quality:
 Clean the data by handling missing values and duplicates.
